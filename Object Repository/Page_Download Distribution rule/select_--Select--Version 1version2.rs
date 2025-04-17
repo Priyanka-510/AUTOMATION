@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Select--Version 1version2</name>
+   <tag></tag>
+   <elementGuidId>d8ac6c05-7c52-415a-8b8e-f1c58e8c06a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PC_MC_ddlVersionID1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PC_MC_ddlVersionID1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#PC_MC_ddlVersionID1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cd17132b-decf-45e7-9885-2d6bf9125fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ctl00$PC$MC$ddlVersionID1</value>
+      <webElementGuid>7540a6b7-29bf-4168-9a23-07c05cbe26ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PC_MC_ddlVersionID1</value>
+      <webElementGuid>779f3ebc-9e43-498b-b736-6b01ab39ea65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>505</value>
+      <webElementGuid>6c443235-efba-4bdb-9ea9-bfadabb4a006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	--Select--
+	Version 1
+	version2
+
+</value>
+      <webElementGuid>b267c9ac-6290-4148-9fab-e2ef6bdf48c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PC_MC_ddlVersionID1&quot;)</value>
+      <webElementGuid>6d500a5b-253e-4ffb-93c7-004bcaa4542d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PC_MC_ddlVersionID1']</value>
+      <webElementGuid>53cd5517-5978-45f1-b6fe-c9d81eeebc73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/div[5]/div[3]/div[2]/div/div/table/tbody/tr[2]/td[2]/select</value>
+      <webElementGuid>6145d214-c463-4c14-aa5d-444eb25ee32f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>2690d86a-785c-44b1-bbfa-c6f15ec6e0f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version'])[1]/following::select[1]</value>
+      <webElementGuid>5edde35b-0794-4e81-82b2-1fc211c0d922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Field is mandatory'])[2]/preceding::select[1]</value>
+      <webElementGuid>8a8cacd8-4c75-43ab-b5dd-8c1c1b2c9ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cashflow Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>1ea816db-906d-46dc-82c3-f833468c8c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/select</value>
+      <webElementGuid>faffbfbc-470b-4ea1-ad74-c7f01299c936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ctl00$PC$MC$ddlVersionID1' and @id = 'PC_MC_ddlVersionID1' and (text() = '
+	--Select--
+	Version 1
+	version2
+
+' or . = '
+	--Select--
+	Version 1
+	version2
+
+')]</value>
+      <webElementGuid>2f0459f3-9bcf-47b5-a131-da43d2bd3fac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

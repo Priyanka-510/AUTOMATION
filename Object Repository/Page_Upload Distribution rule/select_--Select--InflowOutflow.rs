@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Select--InflowOutflow</name>
+   <tag></tag>
+   <elementGuidId>2198580a-7fb7-4553-93ee-a30db48b91a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PC_MC_ddlFlowType</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PC_MC_ddlFlowType']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#PC_MC_ddlFlowType</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9e1d2701-471b-49be-a876-be4fe3148eb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ctl00$PC$MC$ddlFlowType</value>
+      <webElementGuid>ef31edd1-ea81-4050-b5c9-d7647b992cf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PC_MC_ddlFlowType</value>
+      <webElementGuid>f158288c-9f84-4d0e-bcd4-256117d93d53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>501</value>
+      <webElementGuid>2c78465a-face-4743-beb8-043b1571ebf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	--Select--
+	Inflow
+	Outflow
+
+</value>
+      <webElementGuid>6c4cfffe-bdb1-4b60-90b4-619949fe811a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PC_MC_ddlFlowType&quot;)</value>
+      <webElementGuid>dff60002-083a-4cd5-bea1-72e8126d4fa1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PC_MC_ddlFlowType']</value>
+      <webElementGuid>dff84fcc-95ae-4c8c-abe7-b29a5f38db71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/div[5]/div[3]/div[2]/div/table/tbody/tr[3]/td[2]/select</value>
+      <webElementGuid>8990ce70-85e3-47fd-8b1d-67f121d001a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>8634edb9-cc6f-45e8-98b0-ded841343070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cashflow Type'])[1]/following::select[1]</value>
+      <webElementGuid>b060e4c5-a24f-4f42-a438-59f4f13a239d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Field is mandatory'])[3]/preceding::select[1]</value>
+      <webElementGuid>ee7b210c-a21f-4fde-84b2-619fd00cd8a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select File'])[1]/preceding::select[1]</value>
+      <webElementGuid>4073db0a-d45c-4e35-8528-9d31a8424747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/select</value>
+      <webElementGuid>c29f19c7-3788-4ccd-9b0a-f57c5ec3f966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$ctl00$PC$MC$ddlFlowType' and @id = 'PC_MC_ddlFlowType' and (text() = '
+	--Select--
+	Inflow
+	Outflow
+
+' or . = '
+	--Select--
+	Inflow
+	Outflow
+
+')]</value>
+      <webElementGuid>b8ac998e-39d8-47d2-a4cd-5213f1b9afcd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
